@@ -98,3 +98,9 @@ color: #E8E8E8;
 color: #161616;
 
 }
+.modal-btn:hover{
+    color: #161616;
+}
+.modal-btn:focus{
+    color: #161616;
+}
