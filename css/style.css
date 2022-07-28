@@ -80,3 +80,10 @@ body {
     width: 70%;
     padding-bottom: 20px;
 }
+.company-text-c{
+    border: none;
+    padding-bottom: 20px;
+}
+.company-text-c ul>li{
+padding: 1rem;
+}
