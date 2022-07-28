@@ -20,26 +20,8 @@ body {
     filter: blur(3px);
     -webkit-filter: blur(2px);
 }
-.carousel-caption-c{
-    bottom: 10.25rem;
-
-}
-.carousel-button-c{
-    color: rgb(196, 21, 21);
-
-}
-.navbar-ul-center{
-    padding-left: 3%;
-}
-.navbar-ul-center li{
-    padding: 2%;
-}
-.course-text{
-    padding-top: 50PX;
-}
 .card-text-c{
     border: none;
-    width: 50%;
     padding-bottom: 20px;
 }
 .card-text h1{
@@ -50,7 +32,7 @@ body {
     color: #1D1D1D;
 }
 
-.card-text>p{
+.card-text p{
     font-family: 'Poppins';
     font-weight: 400;
     font-size: 10px;
@@ -67,43 +49,34 @@ body {
     background-color: rgb(79, 79, 216);
 }
 .content{
-    height: 200px;
+    height: fit-content;
     background-color: cornflowerblue;
     color: #FFFFFF;
-}
-.reg-button{
-    background-color: #FFFFFF;
 }
 
 .faq-text-c{
     border: none;
-    width: 70%;
     padding-bottom: 20px;
 }
 .company-text-c{
     border: none;
     padding-bottom: 20px;
 }
-.company-text-c ul>li{
-padding: 1rem;
-}
+
 .footer-text{
  background: #161616;
 height: 472px;
 }
 .footer-text-c{
+    padding-top: 50px;
     border: none;
-    width: 50%;
-    padding-bottom: 20px;
     background: #161616;
 }
-.footer-text-c ul>li{
-padding: 1rem;
-}
+
 .footer-text-c h3 {
 font-weight: 600;
 font-size: 40px;
-line-height: 20px;
+line-height: 40px;
  color: #FFFFFF;
 
 
